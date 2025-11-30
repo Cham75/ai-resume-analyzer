@@ -1,0 +1,14 @@
+# Node modules
+frontend/node_modules/
+frontend/dist/
+
+# Python virtual environments
+api/.venv/
+api/venv/
+api/env/
+
+# Local Azure settings (do NOT push!)
+api/local.settings.json
+
+# VS Code settings
+.vscode/
